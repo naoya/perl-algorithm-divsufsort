@@ -1,0 +1,6 @@
+Revision history for Perl extension Algorithm::DivSufSort.
+
+0.01  Mon Oct 13 19:55:52 2008
+	- original version; created by h2xs 1.23 with options
+		-cn Algorithm::DivSufSort
+

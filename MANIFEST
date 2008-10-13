@@ -1,0 +1,11 @@
+Changes
+DivSufSort.xs
+examples/sample.pl
+lib/Algorithm/DivSufSort.pm
+Makefile.PL
+MANIFEST
+ppport.h
+README
+t/00-load.t
+t/01-divsufsort.t
+t/Algorithm-DivSufSort.t
